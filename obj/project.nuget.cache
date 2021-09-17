@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGpF80ijAxqHudG0JQUxdPFq+urr0GOgfr9v8teMyMEa8RUL8xtgYAXaKF1iE186vDXO60mnmQ3u28E3m7x/oQ==",
+  "success": true,
+  "projectFilePath": "F:\\Arriendos\\Arriendos\\Arriendos\\Arriendos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\bouncycastle\\1.8.3.1\\bouncycastle.1.8.3.1.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1404.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1404.0.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.1016.290\\microsoft.sqlserver.types.14.0.1016.290.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\mysql.data\\8.0.21\\mysql.data.8.0.21.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\ssh.net\\2016.1.0\\ssh.net.2016.1.0.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\JEFE-ARCHIVO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
